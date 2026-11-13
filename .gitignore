@@ -1,0 +1,12 @@
+target/
+.maven-repository/
+.maven-settings.xml
+apache-maven-*/
+.idea/
+*.iml
+.classpath
+.project
+.settings/
+.vscode/
+.env
+*.log
